@@ -31,7 +31,7 @@ public class Application {
             if (i > 0) {
                 result += ", ";
             }
-            result += dayofweek;
+                result += dayofweek;
         }
         // 최종 결과 반환
         return result;
